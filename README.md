@@ -8,7 +8,7 @@ An ESP32-powered spider robot featuring a custom **Glassmorphism Web Interface**
 
 | 🤖 Robot Model | 🧪 Testing Phase | 🌐 Web Interface |
 | :---: | :---: | :---: |
-| ![Robot Model](images/robotmodel.jpg) | ![Testing Phase](images/testingphase.jpg) | ![Web Interface](images/website.jpg) |
+| ![Robot Model](images/robotmodel.png) | ![Testing Phase](images/testingphase.jfif) | ![Web Interface](images/website.png) |
 
 ---
 
